@@ -1,0 +1,11 @@
+{
+  "name": "setuppro",
+  "version": "1.0.0",
+  "description": "Setup for professional backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hritik Raushan",
+  "license": "ISC"
+}
